@@ -1,0 +1,29 @@
+body{
+    background-color: lightblue;
+}
+
+.heading{
+    font-size: 25px;
+    width: 100%;
+}
+
+#note{
+    font-size: 15px;
+    color: black;
+    word-spacing: 2px;
+}
+
+#note2{
+    font-size: 15px;
+    color: black;
+    word-spacing: 2px;
+}
+
+.song_name{
+    font-size: 20px;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+}
